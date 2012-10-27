@@ -5,4 +5,6 @@ if ( $blah == $bling ) {
 	echo "yes";
 }
 
+// This is a note I added later
+
 ?>
