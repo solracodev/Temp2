@@ -1,0 +1,8 @@
+<?php 
+
+if ( $blah == $bling ) {
+
+	echo "yes";
+}
+
+?>
